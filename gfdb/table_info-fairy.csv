@@ -14,8 +14,8 @@ id,*,craft time,class,name
 12,6,5:30,strategy,Landmines
 13,6,5:35,strategy,position
 14,6,5:40,strategy,fortress
-15,6,5:00,strategy,command
-16,6,5:05,strategy,rescue
+15,6,5:00,battle,command
+16,6,5:05,battle,rescue
 17,6,5:10,strategy,illumine
 18,6,,battle,golden
 19,6,,battle,cooking
