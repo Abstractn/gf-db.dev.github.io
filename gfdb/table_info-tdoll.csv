@@ -212,7 +212,7 @@ id,craft time,class,*,name
 211,,RF,5,SRS
 212,0:53,HG,4,K5
 213,2:28,SMG,5,C-MS
-214
+214,3:55,AR,5,ADS
 215,3:53,AR,5,MDR
 216,3:25,AR,4,XM8
 217,,RF,3,SM-1
@@ -263,6 +263,12 @@ id,craft time,class,*,name
 262,3:35,AR,4,EM-2
 263,6:36,MG,5,MG36
 264,6:25,MG,4,Chauchat
+265,,AR,3,HK33
+266,,RF,5,R93
+267,,SMG,3,MP41
+268,,RF,3,T-CMS
+269,0:50,HG,4,P30
+270,4:04,RF,4,Type 4
 1001,,HG,1,Noel
 1002,,SG,1,Elphelt
 1003,,HG,1,Kiana
