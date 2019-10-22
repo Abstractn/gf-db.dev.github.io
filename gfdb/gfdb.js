@@ -608,10 +608,11 @@ async function navigate_noadd_history(o) {
 
   // TODO: deduplicate with notice on main page
   const break_date = new Date('2018-10-16T00:00:00-0800');
-  let sec = msec_to_sec(new Date() - break_date);
+  const fix_date = new Date('2019-10-22T00:00:00-0800');
+  let sec = msec_to_sec(fix_date - break_date);
   let days = ~~(sec/secs_in_day);
   let warn_div = document.createElement('div');
-  warn_div.innerHTML = '<a id="in_case_of_annoyance_use_ublock" href="../warning.html">GF client status:</a><br> BROKEN for ' + days + ' days</a>';//   <br><br><a href="gfdb.html">HOME page</a>';
+  warn_div.innerHTML = '<a id="in_case_of_annoyance_use_ublock" href="../warning.html">GF client status:</a><br> FIXED in ' + days + ' days</a>';//   <br><br><a href="gfdb.html">HOME page</a>';
   css_class_add(warn_div, css_class_fixed);
   fragment.appendChild( warn_div );
 
