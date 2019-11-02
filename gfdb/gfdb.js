@@ -612,9 +612,9 @@ async function navigate_noadd_history(o) {
   let sec = msec_to_sec(fix_date - break_date);
   let days = ~~(sec/secs_in_day);
   let warn_div = document.createElement('div');
-  warn_div.innerHTML = '<a id="in_case_of_annoyance_use_ublock" href="../warning.html">GF client status:</a><br> FIXED in ' + days + ' days</a>';//   <br><br><a href="gfdb.html">HOME page</a>';
+  warn_div.innerHTML = '<a id="in_case_of_annoyance_use_ublock" href="../warning.html">GF client status:</a><br>(NOT QUITE) FIXED in ' + days + ' days</a>';//   <br><br><a href="gfdb.html">HOME page</a>';
   css_class_add(warn_div, css_class_fixed);
-  fragment.appendChild( warn_div );
+  //fragment.appendChild( warn_div );  // remove for now
 
   // BIG TODO: recipes and epoch selectors should take table type(gun/equ), not item type(tdoll/equip/fairy)
   switch (o[type_str]) {
