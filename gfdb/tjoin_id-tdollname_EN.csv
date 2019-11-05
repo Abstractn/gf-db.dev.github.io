@@ -180,26 +180,26 @@ id,name
 179,Gd DSR-50
 180,PzB39
 181,T91
-182,???_wz.29
+182,wz.29
 183,Contender
 184,T-5000
 185,Ameli
-186,???_P226
+186,P226
 187,Ak 5
 188,S.A.T.8
 189,USAS-12
 190,NS2000
 191,M12
 192,JS05
-193,???_T65
+193,T65
 194,K2
 195,???_K23
 196,Zas M21
 197,Carcano M1891
 198,Carcano M91/38
 199,Type 80
-200,???_XM3
-201,???_Gepard M1
+200,XM3
+201,Gepard M1
 202,???_Thunder
 203,???_Honey Badger
 204,???_Ballista
@@ -209,7 +209,7 @@ id,name
 208,???_HK21
 209,???_OTs-39
 210,???_CZ52
-211,???_SRS
+211,SRS
 212,K5
 213,C-MS
 214,???_ADS
