@@ -26,7 +26,7 @@ id,name
 25,MP40
 26,Gr MP5
 27,Skorpion
-28,???_MP7
+28,Gr MP7
 29,STEN MkII
 30
 31,M38
@@ -200,13 +200,13 @@ id,name
 199,Type 80
 200,XM3
 201,Gepard M1
-202,???_Thunder
-203,???_Honey Badger
-204,???_Ballista
+202,Thunder
+203,Honey Badger
+204,Ballista
 205,AN-94
 206,AK-12
-207,???_CZ2000
-208,???_HK21
+207,CZ2000
+208,HMG21
 209,???_OTs-39
 210,???_CZ52
 211,SRS
