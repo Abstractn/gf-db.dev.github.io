@@ -1,0 +1,17 @@
+tr td:nth-child(1)
+{ text-align:right; }
+
+tr td:nth-child(2)
+{ text-align:left; }
+
+td
+{ padding: 0 0.3em 0 0.3em; }
+
+table
+{
+    margin-bottom:5em;
+    font-size:1.2em;
+}
+
+hr
+{ border:solid #444 1px; margin:0 auto; width:80%; }
