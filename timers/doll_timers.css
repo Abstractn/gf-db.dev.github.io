@@ -1,11 +1,5 @@
-body {
-  background: #0A0A0A;
-  font-family: Arial,sans-serif;
-  font-size: 14px;
-  line-height: 1.5;
 
-  color: #FFF;
-}
+
 table {
   padding: 0px;
   border-spacing: 0px;
@@ -18,7 +12,8 @@ td {
   border: 1px solid #0A0A0A;
   padding: 0px 5px 0px 5px;
   color: #fff;
-  background: #000;
+  /*background: #000;*/
+  background:rgba(0,0,0,0.8);
 }
 td:nth-child(2) {
   width: 100%;
@@ -74,4 +69,9 @@ div#all_list{
   vertical-align: super;
 /*  font-size: x-small;*/
   font-size: 10px;
+}
+
+tr
+{
+  margin:2px;
 }
