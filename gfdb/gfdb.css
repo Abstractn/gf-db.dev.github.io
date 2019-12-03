@@ -127,3 +127,6 @@ table
 
 .recipelist .bg_on_hover
 { color:#ddd; }
+
+.recipelist .bg_on_hover:hover
+{ color:black; }
