@@ -123,6 +123,7 @@ canvas {
 /* ------------------- */
 
 table
-{
-  color:black;
-}
+{ color:black; }
+
+.recipelist bg_on_hover
+{ color:#ddd; }
