@@ -62,11 +62,26 @@ body {
   float: right;
 }
 
-.rarity2 { color: #DDDDDD; }
-.rarity3 { color: #6BDFCE; }
-.rarity4 { color: #D6E35A; }
-.rarity5 { color: #FFCD4A; }
-.rarity1 { color: #DFB6FF; }
+.rarity2 {
+  color: #DDDDDD;
+  text-shadow: 0px 0px 4px;
+}
+.rarity3 {
+  color: #6BDFCE;
+  text-shadow: 0px 0px 4px;
+}
+.rarity4 {
+  color: #D6E35A;
+  text-shadow: 0px 0px 4px;
+}
+.rarity5 {
+  color: #FFCD4A;
+  text-shadow: 0px 0px 4px;
+}
+.rarity1 {
+  color: #DFB6FF;
+  text-shadow: 0px 0px 4px;
+}
 .rarity6 { background-image: linear-gradient(rgba(255,102,34,0.5), rgba(119,153,238,0.5)); }
 
 .class_battle   { background-color: rgba(255,102, 34,0.5); }
