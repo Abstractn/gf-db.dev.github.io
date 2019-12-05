@@ -152,5 +152,5 @@ table
 .recipelist .bg_on_hover:hover
 { color:black; }
 
-.todll_table_class td:hover, .fairy_table_class td:hover, .equip_table_class td:hover
-{ background-color:rgba(255,255,255,0.3); }
+.finger:hover
+{ background-color:rgba(255,255,255,0.2); }
