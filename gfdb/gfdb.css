@@ -62,11 +62,11 @@ body {
   float: right;
 }
 
-.rarity2 { background-color: #DDDDDD; }
-.rarity3 { background-color: #6BDFCE; }
-.rarity4 { background-color: #D6E35A; }
-.rarity5 { background-color: #FFCD4A; }
-.rarity1 { background-color: #DFB6FF; }
+.rarity2 { color: #DDDDDD; }
+.rarity3 { color: #6BDFCE; }
+.rarity4 { color: #D6E35A; }
+.rarity5 { color: #FFCD4A; }
+.rarity1 { color: #DFB6FF; }
 .rarity6 { background-image: linear-gradient(rgba(255,102,34,0.5), rgba(119,153,238,0.5)); }
 
 .class_battle   { background-color: rgba(255,102, 34,0.5); }
