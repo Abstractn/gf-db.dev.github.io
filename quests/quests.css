@@ -24,7 +24,8 @@ td {
   font-weight: bold;
 }
 .header_bg {
-  background-color: black;
+  background-color:#eee;
+  color:black;
 }
 .selected_row {
   background-color: rgba(0,200,100,0.2);
